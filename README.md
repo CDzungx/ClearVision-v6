@@ -17,5 +17,5 @@
 ## Installing
 Download the theme file and move it into your [BetterDiscord](https://betterdiscord.app) themes folder:
 
->[ClearVision_v6_FreshGreen.theme.css](https://github.com/CDzungx/ClearVision-v6/releases/download/6.2.0/ClearVision_v6_FreshGreen.theme.css) - Normal background image
+>[ClearVision_v6_FreshGreen.theme.css](https://github.com/CDzungx/ClearVision-v6/releases/download/6.2.0/ClearVision_v6_FreshGreen.theme.css) - Normal background image <br>
 >[ClearVision_v6_FreshGreen_HQ.theme.css](https://github.com/CDzungx/ClearVision-v6/releases/download/6.2.0/ClearVision_v6_FreshGreen_HQ.theme.css) - High quality background image (load slower)
